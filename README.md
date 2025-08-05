@@ -1,3 +1,4 @@
 # GEN_AI 
-## Website Link - http://localhost:8501/
+## TO SEE THE WEB REASULT -
+##1. OPEN TERMINAL AND WRITE - streamlit run RAG_PDF_FINAL13.PY
 
